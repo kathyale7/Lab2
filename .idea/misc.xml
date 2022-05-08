@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ksand/OneDrive - Instituto Nacional de Aprendizaje/Documents/Universidad/I Semestre 2022/Plataformas moviles/Lab2RolandoKathyVer2/Lab2RolandoKathyVer2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/rolan/Desktop/Moviles/Lab2RolandoKathyVer2/app/src/main/res/layout/activityAlajuela.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/rolan/Desktop/Moviles/Lab2RolandoKathyVer2/app/src/main/res/layout/activity_ccssHeredia.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/rolan/Desktop/Moviles/Lab2RolandoKathyVer2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/rolan/Desktop/Moviles/Lab2RolandoKathyVer2/app/src/main/res/layout/activityalajuela.xml" value="0.4" />
+        <entry key="..\:/Users/rolan/Desktop/Moviles/Lab2RolandoKathyVer2/app/src/main/res/layout/activityalajuelatipo.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
